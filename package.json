@@ -1,9 +1,10 @@
 {
   "name": "todo",
   "version": "0.0.0",
-  "dependencies": {
+  "dependencies": {},
+  "repository": {},
+  "devDependencies": {
     "grunt": "^0.4.5",
-    "grunt-cli": "*",
     "grunt-autoprefixer": "^2.0.0",
     "grunt-concurrent": "^1.0.0",
     "grunt-contrib-clean": "^0.6.0",
@@ -36,7 +37,6 @@
     "node": ">=0.10.0"
   },
   "scripts": {
-    "test": "grunt test",
-    "start": "grunt build"
+    "test": "grunt test"
   }
 }
