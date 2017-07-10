@@ -2,7 +2,8 @@
   "name": "todo",
   "version": "0.0.0",
   "dependencies": {
-    "grunt": "^0.4.5"
+    "grunt": "^0.4.5",
+    "grunt-cli": "*"
   },
   "repository": {},
   "devDependencies": {
