@@ -443,8 +443,8 @@ module.exports = function (grunt) {
     'concat',
     'ngAnnotate',
     'copy:dist',
-    //'cssmin',
-    //'uglify',
+    'cssmin',
+    'uglify',
     'filerev',
     'usemin',
     'htmlmin'
