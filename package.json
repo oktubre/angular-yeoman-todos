@@ -40,6 +40,6 @@
   },
   "scripts": {
     "test": "grunt test",
-    "start": "npm install && grunt build"
+    "start": "grunt build"
   }
 }
